@@ -50,7 +50,7 @@
                   p.mb-3 Conjunto de reacciones bioquímicas mediante las cuales los nutrientes son utilizados para producir energía, favorecer el crecimiento muscular, formar tejidos, producir huevos y mantener las funciones corporales.
                 .row(titulo="Excreción").ajuste-cajaAcordion.ajuste-vineta
                   p.mb-3 El organismo elimina las sustancias de desecho resultantes del metabolismo mediante las heces y la orina.
-      p.mb-5 El desarrollo adecuado de estos procesos permite que las aves aprovechen eficientemente los nutrientes contenidos en la dieta y alcancen un óptimo desempeño productivo. Los principales objetivos de la nutrición avícola se presentan a continuación.
+      p.mb-5 El desarrollo adecuado de estos procesos permite que las aves aprovechen eficientemente los nutrientes contenidos en la dieta y alcancen un óptimo desempeño productivo. Los principales objetivos de la nutrición avícola se presentan a continuación:
       .bg-carrusel
         .px-5
           .row.align-items-center.mb-5
@@ -231,7 +231,7 @@
             img(src='@/assets/curso/temas/t2/img20.jpg', alt='').m-auto
         .col-xl
           .caja-3(data-aos="fade-right")
-            p.mb-0 Su elaboración requiere considerar las características fisiológicas de las aves, los objetivos de producción y las condiciones del sistema de explotación, con el propósito de garantizar un adecuado desempeño productivo y el aprovechamiento eficiente de los nutrientes. La implementación de un plan alimentario aporta múltiples beneficios para la producción avícola, los cuales se presentan a continuación.
+            p.mb-0 Su elaboración requiere considerar las características fisiológicas de las aves, los objetivos de producción y las condiciones del sistema de explotación, con el propósito de garantizar un adecuado desempeño productivo y el aprovechamiento eficiente de los nutrientes. La implementación de un plan alimentario aporta múltiples beneficios para la producción avícola, los cuales se presentan a continuación:
       .bg-carrusel
         .px-5
           .row.align-items-center.mb-5
@@ -628,7 +628,7 @@
               img(src='@/assets/curso/temas/t2/img55.png', alt='').m-auto
           .col-xl.caja-1_p
             p.mb-0 Antes de revisar las principales deficiencias vitamínicas, es importante conocer las funciones que desempeñan en el organismo. Las vitaminas y los minerales desempeñan funciones esenciales en el organismo de las aves, ya que contribuyen al desarrollo y fortalecimiento del sistema óseo, favorecen una adecuada respuesta inmunológica, participan en los procesos reproductivos, intervienen en la coagulación sanguínea y regulan el metabolismo energético necesario para el crecimiento, el mantenimiento de las funciones vitales y la producción.
-      p.mb-5 Las deficiencias vitamínicas pueden ocasionar diferentes alteraciones fisiológicas, como se presenta a continuación.
+      p.mb-5 Las deficiencias vitamínicas pueden ocasionar diferentes alteraciones fisiológicas, como se presenta a continuación:
       .bg-3
         .px-5
           .row.justify-content-center.mb-5

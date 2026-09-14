@@ -209,7 +209,7 @@
       Separador
       #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.3 Tipos de fórmulas alimenticias
-      p.mb-5 Las fórmulas alimenticias se diseñan de acuerdo con la edad, la etapa productiva y el objetivo de producción de las aves. Este ajuste permite suministrar en cada fase la cantidad adecuada de energía, proteína, aminoácidos, minerales y vitaminas, favoreciendo un mejor crecimiento, producción y eficiencia alimenticia. Las principales fórmulas alimenticias utilizadas en avicultura se presentan a continuación.
+      p.mb-5 Las fórmulas alimenticias se diseñan de acuerdo con la edad, la etapa productiva y el objetivo de producción de las aves. Este ajuste permite suministrar en cada fase la cantidad adecuada de energía, proteína, aminoácidos, minerales y vitaminas, favoreciendo un mejor crecimiento, producción y eficiencia alimenticia. Las principales fórmulas alimenticias utilizadas en avicultura se presentan a continuación:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -328,7 +328,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Estado fisiológico
-                  p.mb-0 La dieta debe adaptarse al momento biológico o productivo del ave, ya sea crecimiento, producción de huevos o reproducción.
+                  p.mb-0 La dieta debe adaptarse al momento biológico o productivo del ave, ya sea de crecimiento, producción de huevos o reproducción.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t4/img30.png', alt='' style="max-width: 500px").m-auto
@@ -339,7 +339,7 @@
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t4/img31.png', alt='' style="max-width: 500px").m-auto
-      p.mb-5 Los requerimientos nutricionales varían entre pollos de engorde y gallinas de postura, como se presenta a continuación.
+      p.mb-5 Los requerimientos nutricionales varían entre pollos de engorde y gallinas de postura, como se presenta a continuación:
       .bg-1
         .px-5
           .row.justify-content-center.mb-5

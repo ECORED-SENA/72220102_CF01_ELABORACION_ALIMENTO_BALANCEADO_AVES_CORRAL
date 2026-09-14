@@ -91,7 +91,7 @@
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.3 Comportamiento animal
-      p.mb-5 El comportamiento de las aves constituye un indicador temprano del estado sanitario, nutricional y ambiental del lote. En muchos casos, las alteraciones del comportamiento aparecen antes de que se manifiesten signos clínicos evidentes, por lo que su evaluación permite detectar oportunamente problemas relacionados con la alimentación, el manejo o la salud. A continuación, se presentan algunos de los principales aspectos que relacionan el comportamiento con el bienestar de las aves.
+      p.mb-5 El comportamiento de las aves constituye un indicador temprano del estado sanitario, nutricional y ambiental del lote. En muchos casos, las alteraciones del comportamiento aparecen antes de que se manifiesten signos clínicos evidentes, por lo que su evaluación permite detectar oportunamente problemas relacionados con la alimentación, el manejo o la salud. A continuación, se presentan algunos de los principales aspectos que relacionan el comportamiento con el bienestar de las aves:
       TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
         .py-3.py-md-4(titulo="Indicadores de alerta")
           .row.justify-content-center.align-items-center

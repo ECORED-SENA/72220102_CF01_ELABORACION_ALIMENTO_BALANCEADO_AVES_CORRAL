@@ -238,7 +238,7 @@
                 h5 Figura 2.
                 span Anatomía del tracto digestivo medio y órganos anexos del ave
               figure(data-aos="zoom-in")
-                img(src='@/assets/curso/temas/t1/img16.png', alt='Ilustración anatómica de la porción media del sistema digestivo de una gallina con el proventrículo, la molleja o ventrículo, el hígado, la vesícula biliar, el páncreas y el duodeno, órganos involucrados en la digestión química y mecánica del alimento y en la secreción de enzimas y bilis para facilitar la absorción de nutrientes. ').m-auto
+                img(src='@/assets/curso/temas/t1/img16.png', alt='Ilustración anatómica de la porción media del sistema digestivo de una gallina con el proventrículo, la molleja o ventrículo, el hígado, la vesícula biliar, el páncreas y el duodeno, órganos involucrados en la digestión química y mecánica del alimento y en la secreción de enzimas y bilis para facilitar la absorción de nutrientes.').m-auto
       .bg-2
         .px-5
           .row.justify-content-center.mb-5

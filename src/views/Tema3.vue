@@ -88,7 +88,7 @@
           Separador
           #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 3.2 Importancia en la alimentación animal
-      p.mb-5 La formulación de alimentos balanceados requiere información nutricional precisa y actualizada. La calidad de una dieta nunca será superior a la calidad de las materias primas que la componen. Por esta razón, el análisis bromatológico constituye la base científica sobre la cual se construyen los programas modernos de alimentación animal. A continuación, se presentan los principales aportes del análisis bromatológico en la alimentación animal.
+      p.mb-5 La formulación de alimentos balanceados requiere información nutricional precisa y actualizada. La calidad de una dieta nunca será superior a la calidad de las materias primas que la componen. Por esta razón, el análisis bromatológico constituye la base científica sobre la cual se construyen los programas modernos de alimentación animal. A continuación, se presentan los principales aportes del análisis bromatológico en la alimentación animal:
       .bg-slider.mb-0
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -103,7 +103,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Productividad avícola
-                  p.mb-0 En pollos de engorde favorece una mayor ganancia diaria de peso, mejor desarrollo muscular, mejor conversión alimenticia y menor tiempo de engorde. En gallinas de postura, contribuye a incrementar el porcentaje de postura, mejorar la calidad de la cáscara, aumentar la persistencia productiva y mantener la calidad interna del huevo.
+                  p.mb-0 En pollos de engorde, favorece una mayor ganancia diaria de peso, mejor desarrollo muscular, mejor conversión alimenticia y menor tiempo de engorde. En gallinas de postura, contribuye a incrementar el porcentaje de postura, mejorar la calidad de la cáscara, aumentar la persistencia productiva y mantener la calidad interna del huevo.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t3/img11.png', alt='' style="max-width: 500px").m-auto
